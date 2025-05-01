@@ -1,0 +1,26 @@
+		**welcome customer**
+
+Bill Number: 524
+
+Customer Name:akanksha
+
+Customer Phone Number:3746982354
+
+ =============================================================
+Product		Unit Price		Quantity		Price
+ =============================================================
+
+Bath Soap  		20		4		80 Rs
+Hair spray 		50		1		150 Rs
+Face cream 		50		1		50 Rs
+Body Lotion		60		1		60 Rs
+Rice       		200		10		2000 Rs
+Daal       		60		1		60 Rs
+Frooti     		20		4		80 Rs
+--------------------------------------------------
+Cosmteic Tax				40.8 Rs
+Grocery Tax				103.0 Rs
+Drinks Tax				6.4 Rs
+
+Total Bill				2630.2000000000003
+--------------------------------------------------
