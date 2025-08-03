@@ -21,13 +21,6 @@ A simple yet efficient Python-based billing system with a graphical user interfa
 
 ---
 
-## 🎥 Demo
-
-> *[Include a screenshot or screen recording here if you have one]*  
-> *(Use tools like ScreenToGif or OBS to record a quick demo and upload it as `.gif` or YouTube video)*
-
----
-
 ## 🏗️ Tech Stack
 
 | Component     | Technology     |
@@ -63,10 +56,34 @@ python bill_app.py
 
 ---
 
-📬 Contact
-📧 sripathiakanksha425@gmail.com
+---
 
-🔗 LinkedIn
+## 📬 Contact
 
-⭐ Show Your Support
-If you found this project useful or inspiring, feel free to ⭐ star the repo and follow for more!
+If you have any questions, suggestions, or collaboration ideas, feel free to reach out:
+
+- 📧 Email: [sripathiakanksha425@gmail.com](mailto:sripathiakanksha425@gmail.com)
+- 🔗 LinkedIn: [Akanksha Sripathi](https://www.linkedin.com/in/akanksha-sripathi-187274297/)
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project, consider:
+
+- Giving a ⭐ on the repository
+- Sharing it with your friends or peers
+- Connecting with me on LinkedIn!
+
+Your support motivates me to build more useful and open projects 🚀
+
+---
+
+
+
+
+
+
+
+
+
