@@ -61,6 +61,8 @@ git clone https://github.com/akanksha425/Bill-Generating-System.git
 cd Bill-Generating-System
 python bill_app.py
 
+---
+
 📬 Contact
 📧 sripathiakanksha425@gmail.com
 
